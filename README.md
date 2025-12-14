@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 67 */
+/* New Things Every Day — Day 67 */
 /* Generates a daily activity log */
 
 function dailyLog67() {
